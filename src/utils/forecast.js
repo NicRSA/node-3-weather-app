@@ -1,5 +1,5 @@
 const request = require('request')
-
+ 
 const forecast = ( { location, longitude, latitude }, callback) => {
     // const location = place.location
     // const long = encodeURIComponent(place.longitude)
